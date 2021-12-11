@@ -1,6 +1,7 @@
+@import "./media-query.css";
 @import "./variable.css";
 @import "./reset.css";
-@import "./nevigation-bar.css";
+@import "./navigation-bar.css";
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");

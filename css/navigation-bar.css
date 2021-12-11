@@ -6,12 +6,13 @@
     display: flex;
     justify-content: space-around;
     position: fixed;
+    align-items:center;
     bottom: 0;
 }
-.nevigation-bar span{
+.navigation-bar span{
     color:black;
     font-size:1.5rem;
 }
-find-icon-cliked{
+find-icon-clicked{
     font-weight:600;
 }
